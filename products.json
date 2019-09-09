@@ -1,0 +1,12 @@
+{
+  "id":"1",
+  "name":"produits1",
+  "price":"350.00",
+  "image":"https://www.google.com/search?q=produit&sxsrf=ACYBGNTBIQiO9q-5klMGmCcPuSiS2L5Dfw:1568032433755&source=lnms&tbm=isch&sa=X&ved=0ahUKEwie8NaB4MPkAhVE8OAKHUF5Ba0Q_AUIEigB&biw=1366&bih=657#imgrc=1n3eoAEz1APc7M:"
+},
+{
+  "id":"2",
+  "name":"produits2",
+  "price":"460.00",
+  "image":"https://www.google.com/search?q=produit&sxsrf=ACYBGNQ1fzTxZ-bCTPSrRBPZCqFasXyjTw:1568032575233&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjgmZLF4MPkAhUhUhUIHaBhBBYQ_AUIEigB&biw=1366&bih=657#imgrc=FvbUYZVtZlMwqM:"
+}
